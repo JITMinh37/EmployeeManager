@@ -1,0 +1,2 @@
+# EmployeeManager
+Manage restaurant staff
