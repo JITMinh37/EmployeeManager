@@ -1,0 +1,2 @@
+Tai khoan : Admin
+Mat khau : 12345

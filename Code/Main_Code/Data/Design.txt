@@ -1,0 +1,34 @@
+In danh sách nhân viên (129)
+
+|| 5   | 9    |   25 |  12   |  14   |   11   |   12  | 30    ||
+|| STT | ID   | NAME | DOB   | CMND  |  SEX   | TEL   | ADD   ||
+
+In chức vụ đi kèm với nhân viên ( 129 )
+|| Ma chuc vu : 4444 | Ten chuc vu:     | Luong (nghin dong/ngay) : 4444  | Tro cap (%) : 333 ||
+|| 19                | 52               | 33                              | 18                ||
+
+In danh sách chức vụ (70)
+
+|| 6   |  25       |  13       | 20                      ||
+||IDP  | NAME      | Phụ cấp   | Lương (nghin dong\ngay) ||
+
+Tim kiem danh sach chuc vu theo phong ban
+|| ma phong ban : 22 | Ten phong ban : ||
+||                   | 37-Name.Size()  ||
+In danh sách phòng ban (49)
+
+|| 4   | 40    ||
+|| ID  | Name  ||
+
+
+In danh sách tiền lương nhận được (119)
+|| 5   | 9   | 25      |  9      |   11       |  9      |       20        | 20                         ||
+|| STT |ID   | Name    | so ngay | Tien phat  | Phu cap | nghìn đông\ngày | Luong (nghìn đông)         ||
+
+In danh sach chuc vu va phong ban cho nhanh vien ( 97 )
+|| 5    |  9    |  25       |   25          | 25        ||
+|| STT  | ID    | Name      | Position      | MD        ||
+
+In ra khi tìm kiếm nhân viên (142)
+|| ID   | Ten nhan vien    | Chuc vu  | Phong ban   | So ngay di lam | Tien phat | Luong ( nghin dong ) || 
+|| 9    | 25               | 25       | 25          | 16             | 11        | 21                   || 

@@ -1,0 +1,29 @@
+/-------------------Quy luat-----------------/
+1. File "Person.txt"
+    Tên (gồm 3 chữ - first, middle, last name)
+    SDT (10 số)
+    MSNV (7 số - 2 số đầu là ManagermentDerpart, 4 số đầu là của Position, 3 số cuối là tự do nhưng không được lặp) 
+        VD 0102122: 01 là mã phòng ban - 0102 là mã vị trí - 122 là mã nhân viên (không được trùng)
+    Address( có phần số và chữ - form:  số " " chữ, phần chữ khi viết không được cách ra)
+        VD 111 PhanThanh : số nhà 111 - đường Phan Thanh ( không được cách ở giữa chử có thể viết Hoa)
+    Giới tính (1: Nam/ 0: Nữ)
+        VD 1 nam
+    Ngày sinh ( Ngày + " " + Tháng + " " + Năm)
+        VD 17 02 2003 : 17/02/2003
+    CCCD (12 số)
+
+2. File "Position.txt"
+    Tên ( Không được viết dấu cách)
+        VD PhoGiamDoc : Phó Giám Đốc
+    ID (4 số - 2 số đầu là phòng ban - ManagermentDerpart, 2 số sau là Chức vụ) : mục đích để biết chức vụ đó thuộc về phòng ban nào 
+        VD 0120 : 01 là phòng ban giám đốc, 20 là chức vụ phó giám đốc
+    Phụ cấp (bao nhiêu %)
+        VD 0: phụ cấp 0%
+    Tiền lương (bao nhiêu k một ngày): 
+        VD 18: 18 (nghìn đồng/ngày)
+
+3. File "ManagermentDerpart.txt"
+    Tên (không được viết dấu cách)
+        VD PhongGiamĐoc : Phòng Giám đốc
+    ID (2 số)
+        VD 02

@@ -1,0 +1,16 @@
+Giam Doc- 1010-	50	1000
+Pho Giam Doc- 1011-	25	800
+Giam Sat Nha Hang- 1111-	25	250
+Quan Li Nha Hang- 1110-	25	650
+Nhan Vien Le Tan- 1112-	0	200
+Nhan Vien Ban- 1113-	0	150
+Nhan Vien Pha Che- 1114-	0	150
+Nhan Vien An Ninh- 1115-	0	150
+Nhan Vien Ve Sinh- 1116-	0	150
+Ke Toan Truong- 1210-	25	400
+Nhan Vien Ke Toan- 1211-	0	200
+Nhan Vien Ve Sinh Bep- 1314-	0	150
+Nhan Vien So Che- 1313-	0	150
+Dau Bep- 1312-	0	250
+Bep Pho- 1311-	25	450
+Bep Truong- 1310-	25	650
